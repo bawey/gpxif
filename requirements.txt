@@ -1,0 +1,4 @@
+gpxpy==1.1.1
+piexif==1.0.5
+python-dateutil
+pytz
